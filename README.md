@@ -17,6 +17,7 @@ MENTOR: NEELA SANTOSH KUMAR
 # 📧 Spam Email Detector using Machine Learning
 
 This project is a **web-based Spam Email Detector** built using **Python, Machine Learning, and Streamlit**.
+
 It classifies an email or message as **SPAM** or **NOT SPAM** using **TF-IDF vectorization** and the **Naive Bayes algorithm**.
 
 
