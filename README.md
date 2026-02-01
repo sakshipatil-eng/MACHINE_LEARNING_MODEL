@@ -54,7 +54,8 @@ To build a simple and interactive application that:
 ## 📂 Project Structure
 
 
-spam_email_detector.py
+spamemaildetector.py
+
 README.md
 
 
