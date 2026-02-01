@@ -126,6 +126,10 @@ pip install streamlit scikit-learn
 This project is open-source and intended for **learning and academic purposes**.
 
 
+## Output
+
+<img width="1908" height="980" alt="Image" src="https://github.com/user-attachments/assets/34696323-1153-4eca-9b05-b8852d2c03c1" />
+
 
 
 
