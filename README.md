@@ -79,8 +79,9 @@ pip install streamlit scikit-learn
 2. Navigate to the project directory
 3. Run the app:
 
-bash
-streamlit run spam_email_detector.py
+ bash
+
+ streamlit run spam_email_detector.py
 
 4. The app will open automatically in your browser.
 
