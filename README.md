@@ -126,5 +126,4 @@ This project is open-source and intended for **learning and academic purposes**.
 
 
 
-Just tell me 😄
 
